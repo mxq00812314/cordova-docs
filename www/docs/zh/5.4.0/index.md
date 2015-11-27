@@ -17,12 +17,12 @@ license: >
     specific language governing permissions and limitations
     under the License.
 
-title: 輔助線
+title: 辅助线
 ---
 
 <div id="home">
   <h1>
-    輔助線
+    辅助线
   </h1>
 
   <ul>
@@ -30,12 +30,11 @@ title: 輔助線
       <h2>
         <a href="guide/overview/index.html">概述</a>
       </h2>
-
-      <span>如果你是新的科爾多瓦，啟動在這裡。包括安裝和下一步。</span>
+      <span>如果你是新的科尔多瓦，启动在这里。包括安裝和下一步。</span>
     </li>
     <li>
       <h2>
-        <a href="guide/support/index.html">平臺支援</a>
+        <a href="guide/support/index.html">平台支持</a>
       </h2>
 
       <span>所有主要功能的相容性表。</span>
@@ -45,103 +44,103 @@ title: 輔助線
         <a href="guide/cli/index.html">命令列介面</a>
       </h2>
 
-      <span>創建、 構建和部署從命令列。</span>
+      <span>创建、 构建和部署从命令列。</span>
     </li>
     <li>
       <h2>
-        <a href="guide/platforms/index.html">平臺指南</a>
+        <a href="guide/platforms/index.html">平台指南</a>
       </h2>
 
-      <span>設置每個平臺 SDK 和更新專案。</span>
+      <span>设置每个平台 SDK 和更新方案。</span>
     </li>
     <li>
       <h2>
-        <a href="plugin_ref/plugman.html">使用 Plugman 來管理外掛程式</a>
+        <a href="plugin_ref/plugman.html">使用 Plugman 来管理外挂程式</a>
       </h2>
 
-      <span>時使用的平臺為中心的工作流管理無 CLI 的外掛程式。</span>
+      <span>时使用的平台为中心的工作流管理无 CLI 的外挂程式。</span>
     </li>
     <li>
       <h2>
-        <a href="config_ref/index.html">Config.xml 檔</a>
+        <a href="config_ref/index.html">Config.xml 档</a>
       </h2>
 
-      <span>自訂您的應用程式的功能。</span>
+      <span>自定义您的应用程序的功能。</span>
     </li>
     <li>
       <h2>
-        <a href="config_ref/images.html">圖示和啟動畫面</a>
+        <a href="config_ref/images.html">图标和启动画面</a>
       </h2>
 
-      <span>自訂您的應用程式的圖像顯示。</span>
+      <span>自定义您的应用程序的图象显示。</span>
     </li>
     <li>
       <h2>
         <a href="guide/hybrid/webviews/index.html">嵌入 WebViews</a>
       </h2>
 
-      <span>在您的本機專案中實現科爾多瓦 web 視圖。</span>
+      <span>在您的本机项目中实现科尔多瓦 web 视图。</span>
     </li>
     <li>
       <h2>
-        <a href="guide/hybrid/plugins/index.html">外掛程式開發指南</a>
+        <a href="guide/hybrid/plugins/index.html">外挂程序开发指南</a>
       </h2>
 
-      <span>開發您自己的外掛程式。</span>
+      <span>开发您自己的外挂程序。</span>
     </li>
     <li>
       <h2>
-        <a href="guide/appdev/privacy/index.html">隱私指南</a>
+        <a href="guide/appdev/privacy/index.html">隐私指南</a>
       </h2>
 
-      <span>瞭解重要手機隱私問題。</span>
+      <span>了解重要手机隐私问题。</span>
     </li>
     <li>
       <h2>
         <a href="guide/appdev/security/index.html">安全指南</a>
       </h2>
 
-      <span>資訊和構建安全的應用程式的提示。</span>
+      <span>信息和构建安全的应用程序的提示。</span>
     </li>
     <li>
       <h2>
-        <a href="platform_plugin_versioning_ref/index.html">平臺和外掛程式版本管理</a>
+        <a href="platform_plugin_versioning_ref/index.html">平台和外挂程序版本管理</a>
       </h2>
 
-      <span>保存和還原您的 CLI 專案到一個已知的狀態，沒有麻煩。</span>
+      <span>保存和还原您的 CLI 项目到一个已知的状态，没有麻烦。</span>
     </li>
     <li>
       <h2>
-        <a href="guide/appdev/whitelist/index.html">白名單指南</a>
+        <a href="guide/appdev/whitelist/index.html">白名单指南</a>
       </h2>
 
-      <span>授予應用程式對外部資源的訪問。</span>
+      <span>授予应用程序对外部资源的访问。</span>
     </li>
     <li>
       <h2>
-        <a href="cordova/storage/storage.html">存儲</a>
+        <a href="cordova/storage/storage.html">存储</a>
       </h2>
 
-      <span>本機存儲選項的概覽。</span>
+      <span>本机存储选项的概览。</span>
     </li>
     <li>
       <h2>
-        掛鉤指南
+        挂钩指南
       </h2>
 
-      <span>通過添加自訂腳本來擴展預設科爾多瓦功能。</span>
+      <span>通过添加自定义脚本来扩展预设科尔多瓦功能。</span>
     </li>
     <li>
       <h2>
-        接下來的步驟
+        接下来的步骤
       </h2>
 
-      <span>看看新的科爾多瓦開發者會遇到的主題。</span>
+      <span>看看新的科尔多瓦开发者会遇到的主题。</span>
     </li>
   </ul>
 
   <h1>
-    API 參考
+    API 参考
   </h1>
 
   <ul>
@@ -150,14 +149,14 @@ title: 輔助線
         <a href="cordova/events/events.html">事件</a>
       </h2>
 
-      <span>掛接到本機事件通過 JavaScript。</span>
+      <span>挂接到本机事件通过 JavaScript。</span>
     </li>
     <li>
       <h2>
-        <a href="cordova/plugins/pluginapis.html">外掛程式的 Api</a>
+        <a href="cordova/plugins/pluginapis.html">外挂程序的 Api</a>
       </h2>
 
-      <span>發現什麼科爾多瓦外掛程式是可用來在您的專案中使用。</span>
+      <span>发现什么科尔多瓦外挂程序是可用来在您的项目中使用。</span>
     </li>
   </ul>
 </div>
